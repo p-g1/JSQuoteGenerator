@@ -1,0 +1,48 @@
+body {
+  height: 100%;
+  width: 100%;
+  background: url(http://justgoodvibe.com/wp-content/uploads/2015/12/im-alan-partridge-4.jpg) no-repeat center fixed;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+
+#button {
+  text-align: center;
+  color: black;
+}
+
+button:hover {
+  color: #FFF;
+  background-color: #66CCFF;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  background: #33CCFF;
+  border-color: #33CCFF;
+}
+
+.message {
+  color: white;
+  text-align: center;
+  width: 400px;
+  margin-left: 50px;
+}
+
+.contain {
+  border-radius: 20px;
+  width: 500px;
+  background: black;
+  margin-left: 200px;
+  height: 660px;
+}
+
+p {
+  font-size: 20px;
+}
